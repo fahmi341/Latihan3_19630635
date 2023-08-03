@@ -1,8 +1,8 @@
 package geometri;
 
 public class Lingkaran {
-    private double radius;
-    
+    //private double radius;
+    double radius;
     public double luas(){
         return 3.14 * (radius *radius);
         
